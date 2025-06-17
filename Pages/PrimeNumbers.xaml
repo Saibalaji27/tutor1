@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="tutor.Pages.PrimeNumbers"
+             xmlns:prime="clr-namespace:tutor.ViewModel"
+             Title="Prime Numbers">
+    <VerticalStackLayout>
+        <Frame
+      BackgroundColor="DodgerBlue"
+      Margin="10,5,10,5">
+        <VerticalStackLayout>
+        <Label 
+            Text="Enter a number to find its prime number or not !"
+            FontAttributes="Bold"
+            FontSize="18"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center"
+            Margin="10,10,10,10"/>
+
+            <Entry 
+                x:Name="number"
+                Text="{Binding Value}"
+                Placeholder="Enter a number"
+                PlaceholderColor="Gray"
+                FontSize="16"
+                Margin="110,30"
+                BackgroundColor="White"
+                TextColor="Black"
+                HeightRequest="50"
+                HorizontalOptions="Fill"
+                VerticalOptions="Center"/>
+
+            <Button
+                Text="check"
+                BackgroundColor="PaleVioletRed"
+                WidthRequest="250"
+                Command="{Binding Check}"
+                
+                
+                />
+
+        </VerticalStackLayout>
+    </Frame>
+        
+        
+   
+        
+    </VerticalStackLayout>
+    
+</ContentPage>

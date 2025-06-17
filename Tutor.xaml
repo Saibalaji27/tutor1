@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="tutor.MainPage"
+             Title="check here">
+
+    <ScrollView>
+        <Grid>
+                <Image Source="background.jpg"
+            Aspect="AspectFill"
+            Opacity="0.5"
+             HorizontalOptions="Fill"
+            VerticalOptions="Fill" />
+        
+        <Grid RowDefinitions="150, 150, 150"
+              ColumnDefinitions="130,130,130"
+              Margin="10,5,0,5">
+          
+           
+            
+                <Frame Grid.Row="0"
+                   Grid.Column="0"
+                   Margin="5,5,5,5"
+                   BackgroundColor="BlueViolet">
+                    <Label Text="prime number"
+                       HorizontalTextAlignment="Center"
+                       VerticalTextAlignment="Center"
+                       FontAttributes="Bold"
+                       FontSize="20">
+                        <Label.GestureRecognizers>
+
+                            <TapGestureRecognizer
+                               Tapped="primenumber"
+                               NumberOfTapsRequired="1"/>
+
+                        </Label.GestureRecognizers>
+                    </Label>
+                   
+                </Frame>
+            <Frame Grid.Row="0"
+        Grid.Column="1"
+        Margin="5,5,5,5"
+        BackgroundColor="BlueViolet">
+                <Label Text="odd or even number"
+            HorizontalTextAlignment="Center"
+            VerticalTextAlignment="Center"
+            FontAttributes="Bold"
+            FontSize="20"/>
+            </Frame>
+
+            <Frame Grid.Row="0"
+        Grid.Column="2"
+        Margin="5,5,5,5"
+        BackgroundColor="BlueViolet">
+                <Label Text="factorial number"
+            HorizontalTextAlignment="Center"
+            VerticalTextAlignment="Center"
+            FontAttributes="Bold"
+            FontSize="20"/>
+            </Frame>
+
+            <Frame Grid.Row="1"
+        Grid.Column="0"
+        Margin="5,5,5,5"
+        BackgroundColor="BlueViolet">
+                <Label Text="perfect number"
+            HorizontalTextAlignment="Center"
+            VerticalTextAlignment="Center"
+            FontAttributes="Bold"
+            FontSize="20"/>
+            </Frame>
+
+            <Frame Grid.Row="1"
+        Grid.Column="1"
+        Margin="5,5,5,5"
+        BackgroundColor="BlueViolet">
+                <Label Text="strong number"
+            HorizontalTextAlignment="Center"
+            VerticalTextAlignment="Center"
+            FontAttributes="Bold"
+            FontSize="20"/>
+            </Frame>
+
+            <Frame Grid.Row="1"
+        Grid.Column="2"
+        Margin="5,5,5,5"
+        BackgroundColor="BlueViolet">
+                <Label Text="palind-rome number"
+            HorizontalTextAlignment="Center"
+            VerticalTextAlignment="Center"
+            FontAttributes="Bold"
+            FontSize="20"/>
+            </Frame>
+
+            </Grid>
+
+        </Grid>
+    </ScrollView>
+
+</ContentPage>
