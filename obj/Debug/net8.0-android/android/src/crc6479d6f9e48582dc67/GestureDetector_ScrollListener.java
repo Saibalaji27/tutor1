@@ -12,6 +12,7 @@ public class GestureDetector_ScrollListener
 		__md_methods = 
 			"n_onDoubleTap:(Landroid/view/MotionEvent;)Z:GetOnDoubleTap_Landroid_view_MotionEvent_Handler\n" +
 			"n_onLongPress:(Landroid/view/MotionEvent;)V:GetOnLongPress_Landroid_view_MotionEvent_Handler\n" +
+			"n_onSingleTapConfirmed:(Landroid/view/MotionEvent;)Z:GetOnSingleTapConfirmed_Landroid_view_MotionEvent_Handler\n" +
 			"n_onSingleTapUp:(Landroid/view/MotionEvent;)Z:GetOnSingleTapUp_Landroid_view_MotionEvent_Handler\n" +
 			"n_onScroll:(Landroid/view/MotionEvent;Landroid/view/MotionEvent;FF)Z:GetOnScroll_Landroid_view_MotionEvent_Landroid_view_MotionEvent_FFHandler\n" +
 			"n_onFling:(Landroid/view/MotionEvent;Landroid/view/MotionEvent;FF)Z:GetOnFling_Landroid_view_MotionEvent_Landroid_view_MotionEvent_FFHandler\n" +
@@ -43,6 +44,14 @@ public class GestureDetector_ScrollListener
 	}
 
 	private native void n_onLongPress (android.view.MotionEvent p0);
+
+
+	public boolean onSingleTapConfirmed (android.view.MotionEvent p0)
+	{
+		return n_onSingleTapConfirmed (p0);
+	}
+
+	private native boolean n_onSingleTapConfirmed (android.view.MotionEvent p0);
 
 
 	public boolean onSingleTapUp (android.view.MotionEvent p0)

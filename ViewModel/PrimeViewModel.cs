@@ -2,7 +2,8 @@
 
 using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
-using tutor.Model;
+using tutor.PrimeModelPage;
+
 
 namespace tutor.ViewModel
 {

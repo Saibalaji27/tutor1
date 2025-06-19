@@ -4,6 +4,58 @@
         <name>tutor</name>
     </assembly>
     <members>
+        <member name="T:tutor.ViewModel.FactorialViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:tutor.ViewModel.FactorialViewModel.Value">
+            <inheritdoc cref="F:tutor.ViewModel.FactorialViewModel.value"/>
+        </member>
+        <member name="F:tutor.ViewModel.FactorialViewModel.checkCommand">
+            <summary>The backing field for <see cref="P:tutor.ViewModel.FactorialViewModel.CheckCommand"/>.</summary>
+        </member>
+        <member name="P:tutor.ViewModel.FactorialViewModel.CheckCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:tutor.ViewModel.FactorialViewModel.Check"/>.</summary>
+        </member>
+        <member name="T:tutor.ViewModel.OddEvenViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:tutor.ViewModel.OddEvenViewModel.Value">
+            <inheritdoc cref="F:tutor.ViewModel.OddEvenViewModel.value"/>
+        </member>
+        <member name="F:tutor.ViewModel.OddEvenViewModel.checkCommand">
+            <summary>The backing field for <see cref="P:tutor.ViewModel.OddEvenViewModel.CheckCommand"/>.</summary>
+        </member>
+        <member name="P:tutor.ViewModel.OddEvenViewModel.CheckCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:tutor.ViewModel.OddEvenViewModel.Check"/>.</summary>
+        </member>
+        <member name="T:tutor.ViewModel.PalindromeViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:tutor.ViewModel.PalindromeViewModel.Value">
+            <inheritdoc cref="F:tutor.ViewModel.PalindromeViewModel.value"/>
+        </member>
+        <member name="F:tutor.ViewModel.PalindromeViewModel.checkCommand">
+            <summary>The backing field for <see cref="P:tutor.ViewModel.PalindromeViewModel.CheckCommand"/>.</summary>
+        </member>
+        <member name="P:tutor.ViewModel.PalindromeViewModel.CheckCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:tutor.ViewModel.PalindromeViewModel.Check"/>.</summary>
+        </member>
+        <member name="T:tutor.ViewModel.PerfectViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:tutor.ViewModel.PerfectViewModel.Value">
+            <inheritdoc cref="F:tutor.ViewModel.PerfectViewModel.value"/>
+        </member>
+        <member name="F:tutor.ViewModel.PerfectViewModel.checkCommand">
+            <summary>The backing field for <see cref="P:tutor.ViewModel.PerfectViewModel.CheckCommand"/>.</summary>
+        </member>
+        <member name="P:tutor.ViewModel.PerfectViewModel.CheckCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:tutor.ViewModel.PerfectViewModel.Check"/>.</summary>
+        </member>
         <member name="T:tutor.ViewModel.PrimeViewModel">
             <inheritdoc/>
             <inheritdoc/>
@@ -16,6 +68,19 @@
         </member>
         <member name="P:tutor.ViewModel.PrimeViewModel.CheckCommand">
             <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:tutor.ViewModel.PrimeViewModel.Check"/>.</summary>
+        </member>
+        <member name="T:tutor.ViewModel.StrongViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:tutor.ViewModel.StrongViewModel.Value">
+            <inheritdoc cref="F:tutor.ViewModel.StrongViewModel.value"/>
+        </member>
+        <member name="F:tutor.ViewModel.StrongViewModel.checkCommand">
+            <summary>The backing field for <see cref="P:tutor.ViewModel.StrongViewModel.CheckCommand"/>.</summary>
+        </member>
+        <member name="P:tutor.ViewModel.StrongViewModel.CheckCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:tutor.ViewModel.StrongViewModel.Check"/>.</summary>
         </member>
         <member name="M:Microsoft.Maui.Controls.ColorAnimationExtensions_Button.TextColorTo(Microsoft.Maui.Controls.Button,Microsoft.Maui.Graphics.Color,System.UInt32,System.UInt32,Microsoft.Maui.Easing,System.Threading.CancellationToken)">
             <summary>

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "i+9JOwCnY6k=",
+  "dgSpecHash": "p1zLF5tYKug=",
   "success": true,
   "projectFilePath": "C:\\.net\\tutor\\tutor\\tutor.csproj",
   "expectedPackageFiles": [
@@ -32,9 +32,9 @@
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.16\\microsoft.net.illink.tasks.8.0.16.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.windows.sdk.buildtools\\10.0.22621.756\\microsoft.windows.sdk.buildtools.10.0.22621.756.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.windowsappsdk\\1.5.240802000\\microsoft.windowsappsdk.1.5.240802000.nupkg.sha512",
-    "C:\\Users\\HP\\.nuget\\packages\\syncfusion.licensing\\23.2.7\\syncfusion.licensing.23.2.7.nupkg.sha512",
-    "C:\\Users\\HP\\.nuget\\packages\\syncfusion.maui.core\\23.2.7\\syncfusion.maui.core.23.2.7.nupkg.sha512",
-    "C:\\Users\\HP\\.nuget\\packages\\syncfusion.maui.expander\\23.2.7\\syncfusion.maui.expander.23.2.7.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\syncfusion.licensing\\25.2.7\\syncfusion.licensing.25.2.7.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\syncfusion.maui.core\\25.2.7\\syncfusion.maui.core.25.2.7.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\syncfusion.maui.expander\\25.2.7\\syncfusion.maui.expander.25.2.7.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\system.speech\\8.0.0\\system.speech.8.0.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\xamarin.android.glide\\4.15.1.2\\xamarin.android.glide.4.15.1.2.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\xamarin.android.glide.annotations\\4.15.1.2\\xamarin.android.glide.annotations.4.15.1.2.nupkg.sha512",

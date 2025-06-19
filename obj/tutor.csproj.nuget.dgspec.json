@@ -94,7 +94,7 @@
             },
             "Syncfusion.Maui.Expander": {
               "target": "Package",
-              "version": "[23.2.7, )"
+              "version": "[25.2.7, )"
             }
           },
           "imports": [
@@ -149,7 +149,7 @@
             },
             "Syncfusion.Maui.Expander": {
               "target": "Package",
-              "version": "[23.2.7, )"
+              "version": "[25.2.7, )"
             }
           },
           "imports": [
@@ -204,7 +204,7 @@
             },
             "Syncfusion.Maui.Expander": {
               "target": "Package",
-              "version": "[23.2.7, )"
+              "version": "[25.2.7, )"
             }
           },
           "imports": [
@@ -254,7 +254,7 @@
             },
             "Syncfusion.Maui.Expander": {
               "target": "Package",
-              "version": "[23.2.7, )"
+              "version": "[25.2.7, )"
             }
           },
           "imports": [

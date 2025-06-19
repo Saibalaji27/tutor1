@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:syncfusion="clr-namespace:Syncfusion.Maui.Expander;assembly=Syncfusion.Maui.Expander"
+             x:Class="tutor.Pages.Palindrome"
+             xmlns:Palindrome="clr-namespace:tutor.ViewModel"
+             Title="Palindrome">
+    <ScrollView>
+        <Grid>
+            <Image Source="four.png"
+  Aspect="AspectFill"
+  Opacity="0.5"
+   HorizontalOptions="Fill"
+  VerticalOptions="Fill" />
+            <VerticalStackLayout>
+                <Frame
+ BackgroundColor="DodgerBlue"
+ Margin="10,5,10,5">
+                    <VerticalStackLayout>
+                        <Label 
+       Text="Enter a number to find its Palindrome or not !"
+       FontAttributes="Bold"
+       FontSize="18"
+       VerticalOptions="Center" 
+       HorizontalOptions="Center"
+       Margin="10,10,10,10"/>
+
+                        <Entry 
+           x:Name="number"
+           Text="{Binding Value}"
+           Placeholder="Enter a number"
+           PlaceholderColor="Gray"
+           FontSize="16"
+           Margin="110,30"
+           BackgroundColor="White"
+           TextColor="Black"
+           HeightRequest="50"
+           HorizontalOptions="Fill"
+           VerticalOptions="Center"/>
+
+                        <Button
+           Text="check"
+           BackgroundColor="PaleVioletRed"
+           WidthRequest="250"
+           Command="{Binding CheckCommand}"
+           
+           
+           />
+
+                    </VerticalStackLayout>
+                </Frame>
+                <syncfusion:SfExpander IsExpanded="False">
+
+                    <syncfusion:SfExpander.Header>
+                        <HorizontalStackLayout Margin="10,5,10,0" Padding="10">
+                            <Label Text="What is a Palindrome ?"
+            FontSize="18"
+            FontAttributes="Bold"
+            TextColor="Black" />
+
+                        </HorizontalStackLayout>
+                    </syncfusion:SfExpander.Header>
+
+                    <syncfusion:SfExpander.Content>
+                        <Label Text="A palindrome is something that reads the same forwards and backwards.
+                       
+                                                                                                     It can be:
+    
+                                                        ✅ A word → like madam, racecar, level
+                                                ✅ A number → like 121, 1331, 444
+                ✅ A sentence → like ''Able was I ere I saw Elba'' (if you ignore spaces/case)"
+    FontAttributes="Bold"
+        FontSize="20"
+        TextColor="Black"
+        Padding="10" />
+                    </syncfusion:SfExpander.Content>
+
+                </syncfusion:SfExpander>
+
+            </VerticalStackLayout>
+        </Grid>
+    </ScrollView>
+</ContentPage>

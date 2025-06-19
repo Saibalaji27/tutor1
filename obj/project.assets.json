@@ -495,19 +495,19 @@
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
       },
-      "Syncfusion.Licensing/23.2.7": {
+      "Syncfusion.Licensing/25.2.7": {
         "type": "package",
         "compile": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         },
         "runtime": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         }
       },
-      "Syncfusion.Maui.Core/23.2.7": {
+      "Syncfusion.Maui.Core/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Licensing": "23.2.7"
+          "Syncfusion.Licensing": "25.2.7"
         },
         "compile": {
           "lib/net8.0-android34.0/Syncfusion.Maui.Core.dll": {
@@ -520,10 +520,10 @@
           }
         }
       },
-      "Syncfusion.Maui.Expander/23.2.7": {
+      "Syncfusion.Maui.Expander/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Maui.Core": "23.2.7"
+          "Syncfusion.Maui.Core": "25.2.7"
         },
         "compile": {
           "lib/net8.0-android34.0/Syncfusion.Maui.Expander.dll": {
@@ -2793,19 +2793,19 @@
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
       },
-      "Syncfusion.Licensing/23.2.7": {
+      "Syncfusion.Licensing/25.2.7": {
         "type": "package",
         "compile": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         },
         "runtime": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         }
       },
-      "Syncfusion.Maui.Core/23.2.7": {
+      "Syncfusion.Maui.Core/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Licensing": "23.2.7"
+          "Syncfusion.Licensing": "25.2.7"
         },
         "compile": {
           "lib/net8.0-android34.0/Syncfusion.Maui.Core.dll": {
@@ -2818,10 +2818,10 @@
           }
         }
       },
-      "Syncfusion.Maui.Expander/23.2.7": {
+      "Syncfusion.Maui.Expander/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Maui.Core": "23.2.7"
+          "Syncfusion.Maui.Core": "25.2.7"
         },
         "compile": {
           "lib/net8.0-android34.0/Syncfusion.Maui.Expander.dll": {
@@ -5091,19 +5091,19 @@
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
       },
-      "Syncfusion.Licensing/23.2.7": {
+      "Syncfusion.Licensing/25.2.7": {
         "type": "package",
         "compile": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         },
         "runtime": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         }
       },
-      "Syncfusion.Maui.Core/23.2.7": {
+      "Syncfusion.Maui.Core/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Licensing": "23.2.7"
+          "Syncfusion.Licensing": "25.2.7"
         },
         "compile": {
           "lib/net8.0-android34.0/Syncfusion.Maui.Core.dll": {
@@ -5116,10 +5116,10 @@
           }
         }
       },
-      "Syncfusion.Maui.Expander/23.2.7": {
+      "Syncfusion.Maui.Expander/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Maui.Core": "23.2.7"
+          "Syncfusion.Maui.Core": "25.2.7"
         },
         "compile": {
           "lib/net8.0-android34.0/Syncfusion.Maui.Expander.dll": {
@@ -7389,19 +7389,19 @@
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
       },
-      "Syncfusion.Licensing/23.2.7": {
+      "Syncfusion.Licensing/25.2.7": {
         "type": "package",
         "compile": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         },
         "runtime": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         }
       },
-      "Syncfusion.Maui.Core/23.2.7": {
+      "Syncfusion.Maui.Core/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Licensing": "23.2.7"
+          "Syncfusion.Licensing": "25.2.7"
         },
         "compile": {
           "lib/net8.0-android34.0/Syncfusion.Maui.Core.dll": {
@@ -7414,10 +7414,10 @@
           }
         }
       },
-      "Syncfusion.Maui.Expander/23.2.7": {
+      "Syncfusion.Maui.Expander/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Maui.Core": "23.2.7"
+          "Syncfusion.Maui.Core": "25.2.7"
         },
         "compile": {
           "lib/net8.0-android34.0/Syncfusion.Maui.Expander.dll": {
@@ -9687,19 +9687,19 @@
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
       },
-      "Syncfusion.Licensing/23.2.7": {
+      "Syncfusion.Licensing/25.2.7": {
         "type": "package",
         "compile": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         },
         "runtime": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         }
       },
-      "Syncfusion.Maui.Core/23.2.7": {
+      "Syncfusion.Maui.Core/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Licensing": "23.2.7"
+          "Syncfusion.Licensing": "25.2.7"
         },
         "compile": {
           "lib/net8.0-android34.0/Syncfusion.Maui.Core.dll": {
@@ -9712,10 +9712,10 @@
           }
         }
       },
-      "Syncfusion.Maui.Expander/23.2.7": {
+      "Syncfusion.Maui.Expander/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Maui.Core": "23.2.7"
+          "Syncfusion.Maui.Core": "25.2.7"
         },
         "compile": {
           "lib/net8.0-android34.0/Syncfusion.Maui.Expander.dll": {
@@ -11985,19 +11985,19 @@
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
       },
-      "Syncfusion.Licensing/23.2.7": {
+      "Syncfusion.Licensing/25.2.7": {
         "type": "package",
         "compile": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         },
         "runtime": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         }
       },
-      "Syncfusion.Maui.Core/23.2.7": {
+      "Syncfusion.Maui.Core/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Licensing": "23.2.7"
+          "Syncfusion.Licensing": "25.2.7"
         },
         "compile": {
           "lib/net8.0-android34.0/Syncfusion.Maui.Core.dll": {
@@ -12010,10 +12010,10 @@
           }
         }
       },
-      "Syncfusion.Maui.Expander/23.2.7": {
+      "Syncfusion.Maui.Expander/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Maui.Core": "23.2.7"
+          "Syncfusion.Maui.Core": "25.2.7"
         },
         "compile": {
           "lib/net8.0-android34.0/Syncfusion.Maui.Expander.dll": {
@@ -14283,19 +14283,19 @@
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
       },
-      "Syncfusion.Licensing/23.2.7": {
+      "Syncfusion.Licensing/25.2.7": {
         "type": "package",
         "compile": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         },
         "runtime": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         }
       },
-      "Syncfusion.Maui.Core/23.2.7": {
+      "Syncfusion.Maui.Core/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Licensing": "23.2.7"
+          "Syncfusion.Licensing": "25.2.7"
         },
         "compile": {
           "lib/net8.0-android34.0/Syncfusion.Maui.Core.dll": {
@@ -14308,10 +14308,10 @@
           }
         }
       },
-      "Syncfusion.Maui.Expander/23.2.7": {
+      "Syncfusion.Maui.Expander/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Maui.Core": "23.2.7"
+          "Syncfusion.Maui.Core": "25.2.7"
         },
         "compile": {
           "lib/net8.0-android34.0/Syncfusion.Maui.Expander.dll": {
@@ -16581,19 +16581,19 @@
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
       },
-      "Syncfusion.Licensing/23.2.7": {
+      "Syncfusion.Licensing/25.2.7": {
         "type": "package",
         "compile": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         },
         "runtime": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         }
       },
-      "Syncfusion.Maui.Core/23.2.7": {
+      "Syncfusion.Maui.Core/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Licensing": "23.2.7"
+          "Syncfusion.Licensing": "25.2.7"
         },
         "compile": {
           "lib/net8.0-android34.0/Syncfusion.Maui.Core.dll": {
@@ -16606,10 +16606,10 @@
           }
         }
       },
-      "Syncfusion.Maui.Expander/23.2.7": {
+      "Syncfusion.Maui.Expander/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Maui.Core": "23.2.7"
+          "Syncfusion.Maui.Core": "25.2.7"
         },
         "compile": {
           "lib/net8.0-android34.0/Syncfusion.Maui.Expander.dll": {
@@ -18855,19 +18855,19 @@
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
       },
-      "Syncfusion.Licensing/23.2.7": {
+      "Syncfusion.Licensing/25.2.7": {
         "type": "package",
         "compile": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         },
         "runtime": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         }
       },
-      "Syncfusion.Maui.Core/23.2.7": {
+      "Syncfusion.Maui.Core/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Licensing": "23.2.7"
+          "Syncfusion.Licensing": "25.2.7"
         },
         "compile": {
           "lib/net8.0-ios16.1/Syncfusion.Maui.Core.dll": {
@@ -18880,10 +18880,10 @@
           }
         }
       },
-      "Syncfusion.Maui.Expander/23.2.7": {
+      "Syncfusion.Maui.Expander/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Maui.Core": "23.2.7"
+          "Syncfusion.Maui.Core": "25.2.7"
         },
         "compile": {
           "lib/net8.0-ios16.1/Syncfusion.Maui.Expander.dll": {
@@ -19367,19 +19367,19 @@
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
       },
-      "Syncfusion.Licensing/23.2.7": {
+      "Syncfusion.Licensing/25.2.7": {
         "type": "package",
         "compile": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         },
         "runtime": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         }
       },
-      "Syncfusion.Maui.Core/23.2.7": {
+      "Syncfusion.Maui.Core/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Licensing": "23.2.7"
+          "Syncfusion.Licensing": "25.2.7"
         },
         "compile": {
           "lib/net8.0-ios16.1/Syncfusion.Maui.Core.dll": {
@@ -19392,10 +19392,10 @@
           }
         }
       },
-      "Syncfusion.Maui.Expander/23.2.7": {
+      "Syncfusion.Maui.Expander/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Maui.Core": "23.2.7"
+          "Syncfusion.Maui.Core": "25.2.7"
         },
         "compile": {
           "lib/net8.0-ios16.1/Syncfusion.Maui.Expander.dll": {
@@ -19879,19 +19879,19 @@
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
       },
-      "Syncfusion.Licensing/23.2.7": {
+      "Syncfusion.Licensing/25.2.7": {
         "type": "package",
         "compile": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         },
         "runtime": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         }
       },
-      "Syncfusion.Maui.Core/23.2.7": {
+      "Syncfusion.Maui.Core/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Licensing": "23.2.7"
+          "Syncfusion.Licensing": "25.2.7"
         },
         "compile": {
           "lib/net8.0-ios16.1/Syncfusion.Maui.Core.dll": {
@@ -19904,10 +19904,10 @@
           }
         }
       },
-      "Syncfusion.Maui.Expander/23.2.7": {
+      "Syncfusion.Maui.Expander/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Maui.Core": "23.2.7"
+          "Syncfusion.Maui.Core": "25.2.7"
         },
         "compile": {
           "lib/net8.0-ios16.1/Syncfusion.Maui.Expander.dll": {
@@ -20391,19 +20391,19 @@
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
       },
-      "Syncfusion.Licensing/23.2.7": {
+      "Syncfusion.Licensing/25.2.7": {
         "type": "package",
         "compile": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         },
         "runtime": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         }
       },
-      "Syncfusion.Maui.Core/23.2.7": {
+      "Syncfusion.Maui.Core/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Licensing": "23.2.7"
+          "Syncfusion.Licensing": "25.2.7"
         },
         "compile": {
           "lib/net8.0-ios16.1/Syncfusion.Maui.Core.dll": {
@@ -20416,10 +20416,10 @@
           }
         }
       },
-      "Syncfusion.Maui.Expander/23.2.7": {
+      "Syncfusion.Maui.Expander/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Maui.Core": "23.2.7"
+          "Syncfusion.Maui.Core": "25.2.7"
         },
         "compile": {
           "lib/net8.0-ios16.1/Syncfusion.Maui.Expander.dll": {
@@ -20903,19 +20903,19 @@
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
       },
-      "Syncfusion.Licensing/23.2.7": {
+      "Syncfusion.Licensing/25.2.7": {
         "type": "package",
         "compile": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         },
         "runtime": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         }
       },
-      "Syncfusion.Maui.Core/23.2.7": {
+      "Syncfusion.Maui.Core/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Licensing": "23.2.7"
+          "Syncfusion.Licensing": "25.2.7"
         },
         "compile": {
           "lib/net8.0-ios16.1/Syncfusion.Maui.Core.dll": {
@@ -20928,10 +20928,10 @@
           }
         }
       },
-      "Syncfusion.Maui.Expander/23.2.7": {
+      "Syncfusion.Maui.Expander/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Maui.Core": "23.2.7"
+          "Syncfusion.Maui.Core": "25.2.7"
         },
         "compile": {
           "lib/net8.0-ios16.1/Syncfusion.Maui.Expander.dll": {
@@ -21415,19 +21415,19 @@
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
       },
-      "Syncfusion.Licensing/23.2.7": {
+      "Syncfusion.Licensing/25.2.7": {
         "type": "package",
         "compile": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         },
         "runtime": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         }
       },
-      "Syncfusion.Maui.Core/23.2.7": {
+      "Syncfusion.Maui.Core/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Licensing": "23.2.7"
+          "Syncfusion.Licensing": "25.2.7"
         },
         "compile": {
           "lib/net8.0-ios16.1/Syncfusion.Maui.Core.dll": {
@@ -21440,10 +21440,10 @@
           }
         }
       },
-      "Syncfusion.Maui.Expander/23.2.7": {
+      "Syncfusion.Maui.Expander/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Maui.Core": "23.2.7"
+          "Syncfusion.Maui.Core": "25.2.7"
         },
         "compile": {
           "lib/net8.0-ios16.1/Syncfusion.Maui.Expander.dll": {
@@ -21927,19 +21927,19 @@
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
       },
-      "Syncfusion.Licensing/23.2.7": {
+      "Syncfusion.Licensing/25.2.7": {
         "type": "package",
         "compile": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         },
         "runtime": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         }
       },
-      "Syncfusion.Maui.Core/23.2.7": {
+      "Syncfusion.Maui.Core/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Licensing": "23.2.7"
+          "Syncfusion.Licensing": "25.2.7"
         },
         "compile": {
           "lib/net8.0-ios16.1/Syncfusion.Maui.Core.dll": {
@@ -21952,10 +21952,10 @@
           }
         }
       },
-      "Syncfusion.Maui.Expander/23.2.7": {
+      "Syncfusion.Maui.Expander/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Maui.Core": "23.2.7"
+          "Syncfusion.Maui.Core": "25.2.7"
         },
         "compile": {
           "lib/net8.0-ios16.1/Syncfusion.Maui.Expander.dll": {
@@ -22439,19 +22439,19 @@
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
       },
-      "Syncfusion.Licensing/23.2.7": {
+      "Syncfusion.Licensing/25.2.7": {
         "type": "package",
         "compile": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         },
         "runtime": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         }
       },
-      "Syncfusion.Maui.Core/23.2.7": {
+      "Syncfusion.Maui.Core/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Licensing": "23.2.7"
+          "Syncfusion.Licensing": "25.2.7"
         },
         "compile": {
           "lib/net8.0-ios16.1/Syncfusion.Maui.Core.dll": {
@@ -22464,10 +22464,10 @@
           }
         }
       },
-      "Syncfusion.Maui.Expander/23.2.7": {
+      "Syncfusion.Maui.Expander/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Maui.Core": "23.2.7"
+          "Syncfusion.Maui.Core": "25.2.7"
         },
         "compile": {
           "lib/net8.0-ios16.1/Syncfusion.Maui.Expander.dll": {
@@ -22951,19 +22951,19 @@
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
       },
-      "Syncfusion.Licensing/23.2.7": {
+      "Syncfusion.Licensing/25.2.7": {
         "type": "package",
         "compile": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         },
         "runtime": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         }
       },
-      "Syncfusion.Maui.Core/23.2.7": {
+      "Syncfusion.Maui.Core/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Licensing": "23.2.7"
+          "Syncfusion.Licensing": "25.2.7"
         },
         "compile": {
           "lib/net8.0-maccatalyst16.1/Syncfusion.Maui.Core.dll": {
@@ -22976,10 +22976,10 @@
           }
         }
       },
-      "Syncfusion.Maui.Expander/23.2.7": {
+      "Syncfusion.Maui.Expander/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Maui.Core": "23.2.7"
+          "Syncfusion.Maui.Core": "25.2.7"
         },
         "compile": {
           "lib/net8.0-maccatalyst16.1/Syncfusion.Maui.Expander.dll": {
@@ -23463,19 +23463,19 @@
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
       },
-      "Syncfusion.Licensing/23.2.7": {
+      "Syncfusion.Licensing/25.2.7": {
         "type": "package",
         "compile": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         },
         "runtime": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         }
       },
-      "Syncfusion.Maui.Core/23.2.7": {
+      "Syncfusion.Maui.Core/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Licensing": "23.2.7"
+          "Syncfusion.Licensing": "25.2.7"
         },
         "compile": {
           "lib/net8.0-maccatalyst16.1/Syncfusion.Maui.Core.dll": {
@@ -23488,10 +23488,10 @@
           }
         }
       },
-      "Syncfusion.Maui.Expander/23.2.7": {
+      "Syncfusion.Maui.Expander/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Maui.Core": "23.2.7"
+          "Syncfusion.Maui.Core": "25.2.7"
         },
         "compile": {
           "lib/net8.0-maccatalyst16.1/Syncfusion.Maui.Expander.dll": {
@@ -23975,19 +23975,19 @@
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
       },
-      "Syncfusion.Licensing/23.2.7": {
+      "Syncfusion.Licensing/25.2.7": {
         "type": "package",
         "compile": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         },
         "runtime": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         }
       },
-      "Syncfusion.Maui.Core/23.2.7": {
+      "Syncfusion.Maui.Core/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Licensing": "23.2.7"
+          "Syncfusion.Licensing": "25.2.7"
         },
         "compile": {
           "lib/net8.0-maccatalyst16.1/Syncfusion.Maui.Core.dll": {
@@ -24000,10 +24000,10 @@
           }
         }
       },
-      "Syncfusion.Maui.Expander/23.2.7": {
+      "Syncfusion.Maui.Expander/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Maui.Core": "23.2.7"
+          "Syncfusion.Maui.Core": "25.2.7"
         },
         "compile": {
           "lib/net8.0-maccatalyst16.1/Syncfusion.Maui.Expander.dll": {
@@ -24487,19 +24487,19 @@
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
       },
-      "Syncfusion.Licensing/23.2.7": {
+      "Syncfusion.Licensing/25.2.7": {
         "type": "package",
         "compile": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         },
         "runtime": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         }
       },
-      "Syncfusion.Maui.Core/23.2.7": {
+      "Syncfusion.Maui.Core/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Licensing": "23.2.7"
+          "Syncfusion.Licensing": "25.2.7"
         },
         "compile": {
           "lib/net8.0-maccatalyst16.1/Syncfusion.Maui.Core.dll": {
@@ -24512,10 +24512,10 @@
           }
         }
       },
-      "Syncfusion.Maui.Expander/23.2.7": {
+      "Syncfusion.Maui.Expander/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Maui.Core": "23.2.7"
+          "Syncfusion.Maui.Core": "25.2.7"
         },
         "compile": {
           "lib/net8.0-maccatalyst16.1/Syncfusion.Maui.Expander.dll": {
@@ -24999,19 +24999,19 @@
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
       },
-      "Syncfusion.Licensing/23.2.7": {
+      "Syncfusion.Licensing/25.2.7": {
         "type": "package",
         "compile": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         },
         "runtime": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         }
       },
-      "Syncfusion.Maui.Core/23.2.7": {
+      "Syncfusion.Maui.Core/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Licensing": "23.2.7"
+          "Syncfusion.Licensing": "25.2.7"
         },
         "compile": {
           "lib/net8.0-maccatalyst16.1/Syncfusion.Maui.Core.dll": {
@@ -25024,10 +25024,10 @@
           }
         }
       },
-      "Syncfusion.Maui.Expander/23.2.7": {
+      "Syncfusion.Maui.Expander/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Maui.Core": "23.2.7"
+          "Syncfusion.Maui.Core": "25.2.7"
         },
         "compile": {
           "lib/net8.0-maccatalyst16.1/Syncfusion.Maui.Expander.dll": {
@@ -25511,19 +25511,19 @@
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
       },
-      "Syncfusion.Licensing/23.2.7": {
+      "Syncfusion.Licensing/25.2.7": {
         "type": "package",
         "compile": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         },
         "runtime": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         }
       },
-      "Syncfusion.Maui.Core/23.2.7": {
+      "Syncfusion.Maui.Core/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Licensing": "23.2.7"
+          "Syncfusion.Licensing": "25.2.7"
         },
         "compile": {
           "lib/net8.0-maccatalyst16.1/Syncfusion.Maui.Core.dll": {
@@ -25536,10 +25536,10 @@
           }
         }
       },
-      "Syncfusion.Maui.Expander/23.2.7": {
+      "Syncfusion.Maui.Expander/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Maui.Core": "23.2.7"
+          "Syncfusion.Maui.Core": "25.2.7"
         },
         "compile": {
           "lib/net8.0-maccatalyst16.1/Syncfusion.Maui.Expander.dll": {
@@ -26023,19 +26023,19 @@
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
       },
-      "Syncfusion.Licensing/23.2.7": {
+      "Syncfusion.Licensing/25.2.7": {
         "type": "package",
         "compile": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         },
         "runtime": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         }
       },
-      "Syncfusion.Maui.Core/23.2.7": {
+      "Syncfusion.Maui.Core/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Licensing": "23.2.7"
+          "Syncfusion.Licensing": "25.2.7"
         },
         "compile": {
           "lib/net8.0-maccatalyst16.1/Syncfusion.Maui.Core.dll": {
@@ -26048,10 +26048,10 @@
           }
         }
       },
-      "Syncfusion.Maui.Expander/23.2.7": {
+      "Syncfusion.Maui.Expander/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Maui.Core": "23.2.7"
+          "Syncfusion.Maui.Core": "25.2.7"
         },
         "compile": {
           "lib/net8.0-maccatalyst16.1/Syncfusion.Maui.Expander.dll": {
@@ -26535,19 +26535,19 @@
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
       },
-      "Syncfusion.Licensing/23.2.7": {
+      "Syncfusion.Licensing/25.2.7": {
         "type": "package",
         "compile": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         },
         "runtime": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         }
       },
-      "Syncfusion.Maui.Core/23.2.7": {
+      "Syncfusion.Maui.Core/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Licensing": "23.2.7"
+          "Syncfusion.Licensing": "25.2.7"
         },
         "compile": {
           "lib/net8.0-maccatalyst16.1/Syncfusion.Maui.Core.dll": {
@@ -26560,10 +26560,10 @@
           }
         }
       },
-      "Syncfusion.Maui.Expander/23.2.7": {
+      "Syncfusion.Maui.Expander/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Maui.Core": "23.2.7"
+          "Syncfusion.Maui.Core": "25.2.7"
         },
         "compile": {
           "lib/net8.0-maccatalyst16.1/Syncfusion.Maui.Expander.dll": {
@@ -27217,35 +27217,35 @@
           }
         }
       },
-      "Syncfusion.Licensing/23.2.7": {
+      "Syncfusion.Licensing/25.2.7": {
         "type": "package",
         "compile": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         },
         "runtime": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         }
       },
-      "Syncfusion.Maui.Core/23.2.7": {
+      "Syncfusion.Maui.Core/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Licensing": "23.2.7"
+          "Syncfusion.Licensing": "25.2.7"
         },
         "compile": {
           "lib/net8.0-windows10.0.19041.0/Syncfusion.Maui.Core.dll": {
-            "related": ".deps.json;.xml"
+            "related": ".deps.json;.pri;.xml"
           }
         },
         "runtime": {
           "lib/net8.0-windows10.0.19041.0/Syncfusion.Maui.Core.dll": {
-            "related": ".deps.json;.xml"
+            "related": ".deps.json;.pri;.xml"
           }
         }
       },
-      "Syncfusion.Maui.Expander/23.2.7": {
+      "Syncfusion.Maui.Expander/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Maui.Core": "23.2.7"
+          "Syncfusion.Maui.Core": "25.2.7"
         },
         "compile": {
           "lib/net8.0-windows10.0.19041.0/Syncfusion.Maui.Expander.dll": {
@@ -27877,35 +27877,35 @@
           "buildTransitive/Microsoft.WindowsAppSDK.targets": {}
         }
       },
-      "Syncfusion.Licensing/23.2.7": {
+      "Syncfusion.Licensing/25.2.7": {
         "type": "package",
         "compile": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         },
         "runtime": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         }
       },
-      "Syncfusion.Maui.Core/23.2.7": {
+      "Syncfusion.Maui.Core/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Licensing": "23.2.7"
+          "Syncfusion.Licensing": "25.2.7"
         },
         "compile": {
           "lib/net8.0-windows10.0.19041.0/Syncfusion.Maui.Core.dll": {
-            "related": ".deps.json;.xml"
+            "related": ".deps.json;.pri;.xml"
           }
         },
         "runtime": {
           "lib/net8.0-windows10.0.19041.0/Syncfusion.Maui.Core.dll": {
-            "related": ".deps.json;.xml"
+            "related": ".deps.json;.pri;.xml"
           }
         }
       },
-      "Syncfusion.Maui.Expander/23.2.7": {
+      "Syncfusion.Maui.Expander/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Maui.Core": "23.2.7"
+          "Syncfusion.Maui.Core": "25.2.7"
         },
         "compile": {
           "lib/net8.0-windows10.0.19041.0/Syncfusion.Maui.Expander.dll": {
@@ -28531,35 +28531,35 @@
           "buildTransitive/Microsoft.WindowsAppSDK.targets": {}
         }
       },
-      "Syncfusion.Licensing/23.2.7": {
+      "Syncfusion.Licensing/25.2.7": {
         "type": "package",
         "compile": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         },
         "runtime": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         }
       },
-      "Syncfusion.Maui.Core/23.2.7": {
+      "Syncfusion.Maui.Core/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Licensing": "23.2.7"
+          "Syncfusion.Licensing": "25.2.7"
         },
         "compile": {
           "lib/net8.0-windows10.0.19041.0/Syncfusion.Maui.Core.dll": {
-            "related": ".deps.json;.xml"
+            "related": ".deps.json;.pri;.xml"
           }
         },
         "runtime": {
           "lib/net8.0-windows10.0.19041.0/Syncfusion.Maui.Core.dll": {
-            "related": ".deps.json;.xml"
+            "related": ".deps.json;.pri;.xml"
           }
         }
       },
-      "Syncfusion.Maui.Expander/23.2.7": {
+      "Syncfusion.Maui.Expander/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Maui.Core": "23.2.7"
+          "Syncfusion.Maui.Core": "25.2.7"
         },
         "compile": {
           "lib/net8.0-windows10.0.19041.0/Syncfusion.Maui.Expander.dll": {
@@ -29185,35 +29185,35 @@
           "buildTransitive/Microsoft.WindowsAppSDK.targets": {}
         }
       },
-      "Syncfusion.Licensing/23.2.7": {
+      "Syncfusion.Licensing/25.2.7": {
         "type": "package",
         "compile": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         },
         "runtime": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         }
       },
-      "Syncfusion.Maui.Core/23.2.7": {
+      "Syncfusion.Maui.Core/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Licensing": "23.2.7"
+          "Syncfusion.Licensing": "25.2.7"
         },
         "compile": {
           "lib/net8.0-windows10.0.19041.0/Syncfusion.Maui.Core.dll": {
-            "related": ".deps.json;.xml"
+            "related": ".deps.json;.pri;.xml"
           }
         },
         "runtime": {
           "lib/net8.0-windows10.0.19041.0/Syncfusion.Maui.Core.dll": {
-            "related": ".deps.json;.xml"
+            "related": ".deps.json;.pri;.xml"
           }
         }
       },
-      "Syncfusion.Maui.Expander/23.2.7": {
+      "Syncfusion.Maui.Expander/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Maui.Core": "23.2.7"
+          "Syncfusion.Maui.Core": "25.2.7"
         },
         "compile": {
           "lib/net8.0-windows10.0.19041.0/Syncfusion.Maui.Expander.dll": {
@@ -29839,35 +29839,35 @@
           "buildTransitive/Microsoft.WindowsAppSDK.targets": {}
         }
       },
-      "Syncfusion.Licensing/23.2.7": {
+      "Syncfusion.Licensing/25.2.7": {
         "type": "package",
         "compile": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         },
         "runtime": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         }
       },
-      "Syncfusion.Maui.Core/23.2.7": {
+      "Syncfusion.Maui.Core/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Licensing": "23.2.7"
+          "Syncfusion.Licensing": "25.2.7"
         },
         "compile": {
           "lib/net8.0-windows10.0.19041.0/Syncfusion.Maui.Core.dll": {
-            "related": ".deps.json;.xml"
+            "related": ".deps.json;.pri;.xml"
           }
         },
         "runtime": {
           "lib/net8.0-windows10.0.19041.0/Syncfusion.Maui.Core.dll": {
-            "related": ".deps.json;.xml"
+            "related": ".deps.json;.pri;.xml"
           }
         }
       },
-      "Syncfusion.Maui.Expander/23.2.7": {
+      "Syncfusion.Maui.Expander/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Maui.Core": "23.2.7"
+          "Syncfusion.Maui.Core": "25.2.7"
         },
         "compile": {
           "lib/net8.0-windows10.0.19041.0/Syncfusion.Maui.Expander.dll": {
@@ -30493,35 +30493,35 @@
           "buildTransitive/Microsoft.WindowsAppSDK.targets": {}
         }
       },
-      "Syncfusion.Licensing/23.2.7": {
+      "Syncfusion.Licensing/25.2.7": {
         "type": "package",
         "compile": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         },
         "runtime": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         }
       },
-      "Syncfusion.Maui.Core/23.2.7": {
+      "Syncfusion.Maui.Core/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Licensing": "23.2.7"
+          "Syncfusion.Licensing": "25.2.7"
         },
         "compile": {
           "lib/net8.0-windows10.0.19041.0/Syncfusion.Maui.Core.dll": {
-            "related": ".deps.json;.xml"
+            "related": ".deps.json;.pri;.xml"
           }
         },
         "runtime": {
           "lib/net8.0-windows10.0.19041.0/Syncfusion.Maui.Core.dll": {
-            "related": ".deps.json;.xml"
+            "related": ".deps.json;.pri;.xml"
           }
         }
       },
-      "Syncfusion.Maui.Expander/23.2.7": {
+      "Syncfusion.Maui.Expander/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Maui.Core": "23.2.7"
+          "Syncfusion.Maui.Core": "25.2.7"
         },
         "compile": {
           "lib/net8.0-windows10.0.19041.0/Syncfusion.Maui.Expander.dll": {
@@ -31147,35 +31147,35 @@
           "buildTransitive/Microsoft.WindowsAppSDK.targets": {}
         }
       },
-      "Syncfusion.Licensing/23.2.7": {
+      "Syncfusion.Licensing/25.2.7": {
         "type": "package",
         "compile": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         },
         "runtime": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         }
       },
-      "Syncfusion.Maui.Core/23.2.7": {
+      "Syncfusion.Maui.Core/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Licensing": "23.2.7"
+          "Syncfusion.Licensing": "25.2.7"
         },
         "compile": {
           "lib/net8.0-windows10.0.19041.0/Syncfusion.Maui.Core.dll": {
-            "related": ".deps.json;.xml"
+            "related": ".deps.json;.pri;.xml"
           }
         },
         "runtime": {
           "lib/net8.0-windows10.0.19041.0/Syncfusion.Maui.Core.dll": {
-            "related": ".deps.json;.xml"
+            "related": ".deps.json;.pri;.xml"
           }
         }
       },
-      "Syncfusion.Maui.Expander/23.2.7": {
+      "Syncfusion.Maui.Expander/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Maui.Core": "23.2.7"
+          "Syncfusion.Maui.Core": "25.2.7"
         },
         "compile": {
           "lib/net8.0-windows10.0.19041.0/Syncfusion.Maui.Expander.dll": {
@@ -31807,35 +31807,35 @@
           "buildTransitive/Microsoft.WindowsAppSDK.targets": {}
         }
       },
-      "Syncfusion.Licensing/23.2.7": {
+      "Syncfusion.Licensing/25.2.7": {
         "type": "package",
         "compile": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         },
         "runtime": {
-          "lib/net7.0/Syncfusion.Licensing.dll": {}
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         }
       },
-      "Syncfusion.Maui.Core/23.2.7": {
+      "Syncfusion.Maui.Core/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Licensing": "23.2.7"
+          "Syncfusion.Licensing": "25.2.7"
         },
         "compile": {
           "lib/net8.0-windows10.0.19041.0/Syncfusion.Maui.Core.dll": {
-            "related": ".deps.json;.xml"
+            "related": ".deps.json;.pri;.xml"
           }
         },
         "runtime": {
           "lib/net8.0-windows10.0.19041.0/Syncfusion.Maui.Core.dll": {
-            "related": ".deps.json;.xml"
+            "related": ".deps.json;.pri;.xml"
           }
         }
       },
-      "Syncfusion.Maui.Expander/23.2.7": {
+      "Syncfusion.Maui.Expander/25.2.7": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Maui.Core": "23.2.7"
+          "Syncfusion.Maui.Core": "25.2.7"
         },
         "compile": {
           "lib/net8.0-windows10.0.19041.0/Syncfusion.Maui.Expander.dll": {
@@ -34203,10 +34203,10 @@
         "tools/x86/GenXbf.dll"
       ]
     },
-    "Syncfusion.Licensing/23.2.7": {
-      "sha512": "Cgm5cvadJ5fsNy+yiqk4FODpgfkLGQESdgTraUHrRNAP8qcLvDSCpupL1QBap+H7f5YaONOmbMkoDVKogIMoKA==",
+    "Syncfusion.Licensing/25.2.7": {
+      "sha512": "nOUiwIehDY1SGNBGwGC9v1xKLA78ytv6BScktV7vUrH76a1PBXGJwhhq+PzHVROr6Y+3Ch3XrrbUOt3AQyNlVQ==",
       "type": "package",
-      "path": "syncfusion.licensing/23.2.7",
+      "path": "syncfusion.licensing/25.2.7",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -34217,21 +34217,21 @@
         "lib/Xamarin.iOS10/Syncfusion.Licensing.dll",
         "lib/net40/Syncfusion.Licensing.dll",
         "lib/net45/Syncfusion.Licensing.dll",
-        "lib/net451/Syncfusion.Licensing.dll",
-        "lib/net46/Syncfusion.Licensing.dll",
+        "lib/net462/Syncfusion.Licensing.dll",
         "lib/net6.0/Syncfusion.Licensing.dll",
         "lib/net7.0/Syncfusion.Licensing.dll",
+        "lib/net8.0/Syncfusion.Licensing.dll",
         "lib/netstandard2.0/Syncfusion.Licensing.dll",
         "lib/uap10.0/Syncfusion.Licensing.dll",
-        "syncfusion.licensing.23.2.7.nupkg.sha512",
+        "syncfusion.licensing.25.2.7.nupkg.sha512",
         "syncfusion.licensing.nuspec",
         "syncfusion_logo.png"
       ]
     },
-    "Syncfusion.Maui.Core/23.2.7": {
-      "sha512": "/TmTP7gT+l6+RZSke/ldZgrg4+6s7WO22G5ktdkFwJCqNuNRJLXEQu2abhIDAemyxUYgTS72H+VU0WXAzqvxAw==",
+    "Syncfusion.Maui.Core/25.2.7": {
+      "sha512": "DLDv33jqBfWoZyFXcDi+UcIcBADQZpmmuxq2aozu4jUDVL0DwrF7o8Mnd1EkcPuXW+9nMFNHx5eKZ+zl7CpBHQ==",
       "type": "package",
-      "path": "syncfusion.maui.core/23.2.7",
+      "path": "syncfusion.maui.core/25.2.7",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -34246,7 +34246,14 @@
         "lib/net7.0-maccatalyst16.1/Syncfusion.Maui.Core.xml",
         "lib/net7.0-windows10.0.19041.0/Syncfusion.Maui.Core.deps.json",
         "lib/net7.0-windows10.0.19041.0/Syncfusion.Maui.Core.dll",
+        "lib/net7.0-windows10.0.19041.0/Syncfusion.Maui.Core.pri",
         "lib/net7.0-windows10.0.19041.0/Syncfusion.Maui.Core.xml",
+        "lib/net7.0-windows10.0.19041.0/Syncfusion.Maui.Core/Platform/Windows/Styles/CarouselStyles.xaml",
+        "lib/net7.0-windows10.0.19041.0/Syncfusion.Maui.Core/Platform/Windows/Styles/CarouselStyles.xbf",
+        "lib/net7.0-windows10.0.19041.0/Syncfusion.Maui.Core/Platform/Windows/Styles/Resources.xaml",
+        "lib/net7.0-windows10.0.19041.0/Syncfusion.Maui.Core/Platform/Windows/Styles/Resources.xbf",
+        "lib/net7.0-windows10.0.19041.0/Syncfusion.Maui.Core/Platform/Windows/Styles/RotatorStyles.xaml",
+        "lib/net7.0-windows10.0.19041.0/Syncfusion.Maui.Core/Platform/Windows/Styles/RotatorStyles.xbf",
         "lib/net7.0/Syncfusion.Maui.Core.deps.json",
         "lib/net7.0/Syncfusion.Maui.Core.dll",
         "lib/net7.0/Syncfusion.Maui.Core.xml",
@@ -34258,19 +34265,26 @@
         "lib/net8.0-maccatalyst16.1/Syncfusion.Maui.Core.xml",
         "lib/net8.0-windows10.0.19041.0/Syncfusion.Maui.Core.deps.json",
         "lib/net8.0-windows10.0.19041.0/Syncfusion.Maui.Core.dll",
+        "lib/net8.0-windows10.0.19041.0/Syncfusion.Maui.Core.pri",
         "lib/net8.0-windows10.0.19041.0/Syncfusion.Maui.Core.xml",
+        "lib/net8.0-windows10.0.19041.0/Syncfusion.Maui.Core/Platform/Windows/Styles/CarouselStyles.xaml",
+        "lib/net8.0-windows10.0.19041.0/Syncfusion.Maui.Core/Platform/Windows/Styles/CarouselStyles.xbf",
+        "lib/net8.0-windows10.0.19041.0/Syncfusion.Maui.Core/Platform/Windows/Styles/Resources.xaml",
+        "lib/net8.0-windows10.0.19041.0/Syncfusion.Maui.Core/Platform/Windows/Styles/Resources.xbf",
+        "lib/net8.0-windows10.0.19041.0/Syncfusion.Maui.Core/Platform/Windows/Styles/RotatorStyles.xaml",
+        "lib/net8.0-windows10.0.19041.0/Syncfusion.Maui.Core/Platform/Windows/Styles/RotatorStyles.xbf",
         "lib/net8.0/Syncfusion.Maui.Core.deps.json",
         "lib/net8.0/Syncfusion.Maui.Core.dll",
         "lib/net8.0/Syncfusion.Maui.Core.xml",
-        "syncfusion.maui.core.23.2.7.nupkg.sha512",
+        "syncfusion.maui.core.25.2.7.nupkg.sha512",
         "syncfusion.maui.core.nuspec",
         "syncfusion_logo.png"
       ]
     },
-    "Syncfusion.Maui.Expander/23.2.7": {
-      "sha512": "SeVZZEXG8R5ndYTjwUIBju1zmypxgoeYBS1Hl5B1dHMbNqxetjRuTRQ9JihmaDAZMBSK7qVW6gOowrnXOliPEw==",
+    "Syncfusion.Maui.Expander/25.2.7": {
+      "sha512": "BOZHVwKAAUUn6fVoVhDTQLKGs3i3X3e58Azv7O2Zn6TojRtF68mdcjBPN57dD2vs1RQtsBC18EZ6Tmx37HgwsA==",
       "type": "package",
-      "path": "syncfusion.maui.expander/23.2.7",
+      "path": "syncfusion.maui.expander/25.2.7",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -34301,7 +34315,7 @@
         "lib/net8.0/Syncfusion.Maui.Expander.deps.json",
         "lib/net8.0/Syncfusion.Maui.Expander.dll",
         "lib/net8.0/Syncfusion.Maui.Expander.xml",
-        "syncfusion.maui.expander.23.2.7.nupkg.sha512",
+        "syncfusion.maui.expander.25.2.7.nupkg.sha512",
         "syncfusion.maui.expander.nuspec",
         "syncfusion_logo.png"
       ]
@@ -36378,7 +36392,7 @@
       "Microsoft.Maui.Controls >= 8.0.100",
       "Microsoft.Maui.Controls.Compatibility >= 8.0.100",
       "Microsoft.NET.ILLink.Tasks >= 8.0.16",
-      "Syncfusion.Maui.Expander >= 23.2.7"
+      "Syncfusion.Maui.Expander >= 25.2.7"
     ],
     "net8.0-ios18.0": [
       "CommunityToolkit.Maui >= 9.1.1",
@@ -36387,7 +36401,7 @@
       "Microsoft.Maui.Controls >= 8.0.100",
       "Microsoft.Maui.Controls.Compatibility >= 8.0.100",
       "Microsoft.NET.ILLink.Tasks >= 8.0.16",
-      "Syncfusion.Maui.Expander >= 23.2.7"
+      "Syncfusion.Maui.Expander >= 25.2.7"
     ],
     "net8.0-maccatalyst18.0": [
       "CommunityToolkit.Maui >= 9.1.1",
@@ -36396,7 +36410,7 @@
       "Microsoft.Maui.Controls >= 8.0.100",
       "Microsoft.Maui.Controls.Compatibility >= 8.0.100",
       "Microsoft.NET.ILLink.Tasks >= 8.0.16",
-      "Syncfusion.Maui.Expander >= 23.2.7"
+      "Syncfusion.Maui.Expander >= 25.2.7"
     ],
     "net8.0-windows10.0.19041": [
       "CommunityToolkit.Maui >= 9.1.1",
@@ -36404,7 +36418,7 @@
       "Microsoft.Extensions.Logging.Debug >= 8.0.1",
       "Microsoft.Maui.Controls >= 8.0.100",
       "Microsoft.Maui.Controls.Compatibility >= 8.0.100",
-      "Syncfusion.Maui.Expander >= 23.2.7"
+      "Syncfusion.Maui.Expander >= 25.2.7"
     ]
   },
   "packageFolders": {
@@ -36501,7 +36515,7 @@
           },
           "Syncfusion.Maui.Expander": {
             "target": "Package",
-            "version": "[23.2.7, )"
+            "version": "[25.2.7, )"
           }
         },
         "imports": [
@@ -36556,7 +36570,7 @@
           },
           "Syncfusion.Maui.Expander": {
             "target": "Package",
-            "version": "[23.2.7, )"
+            "version": "[25.2.7, )"
           }
         },
         "imports": [
@@ -36611,7 +36625,7 @@
           },
           "Syncfusion.Maui.Expander": {
             "target": "Package",
-            "version": "[23.2.7, )"
+            "version": "[25.2.7, )"
           }
         },
         "imports": [
@@ -36661,7 +36675,7 @@
           },
           "Syncfusion.Maui.Expander": {
             "target": "Package",
-            "version": "[23.2.7, )"
+            "version": "[25.2.7, )"
           }
         },
         "imports": [

@@ -28,11 +28,41 @@ build_metadata.AdditionalFiles.ManifestResourceName = tutor.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
+[C:/.net/tutor/tutor/Pages/Factorial.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = tutor.Pages.Factorial.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Factorial.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Factorial.xaml
+
+[C:/.net/tutor/tutor/Pages/OddEven.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = tutor.Pages.OddEven.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\OddEven.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\OddEven.xaml
+
+[C:/.net/tutor/tutor/Pages/Palindrome.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = tutor.Pages.Palindrome.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Palindrome.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Palindrome.xaml
+
+[C:/.net/tutor/tutor/Pages/Perfect.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = tutor.Pages.Perfect.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Perfect.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Perfect.xaml
+
 [C:/.net/tutor/tutor/Pages/PrimeNumbers.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = tutor.Pages.PrimeNumbers.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\PrimeNumbers.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\PrimeNumbers.xaml
+
+[C:/.net/tutor/tutor/Pages/Strong.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = tutor.Pages.Strong.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Strong.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Strong.xaml
 
 [C:/.net/tutor/tutor/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml

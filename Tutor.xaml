@@ -45,8 +45,16 @@
             HorizontalTextAlignment="Center"
             VerticalTextAlignment="Center"
             FontAttributes="Bold"
-            FontSize="20"/>
-            </Frame>
+            FontSize="20">
+                        <Label.GestureRecognizers>
+
+                            <TapGestureRecognizer
+           Tapped="oddeven"
+           NumberOfTapsRequired="1"/>
+
+                        </Label.GestureRecognizers>
+                    </Label>
+                </Frame>
 
             <Frame Grid.Row="0"
         Grid.Column="2"
@@ -56,8 +64,16 @@
             HorizontalTextAlignment="Center"
             VerticalTextAlignment="Center"
             FontAttributes="Bold"
-            FontSize="20"/>
-            </Frame>
+            FontSize="20">
+                    <Label.GestureRecognizers>
+
+                        <TapGestureRecognizer
+           Tapped="factorial"
+           NumberOfTapsRequired="1"/>
+
+                    </Label.GestureRecognizers>
+                    </Label>
+                </Frame>
 
             <Frame Grid.Row="1"
         Grid.Column="0"
@@ -67,8 +83,16 @@
             HorizontalTextAlignment="Center"
             VerticalTextAlignment="Center"
             FontAttributes="Bold"
-            FontSize="20"/>
-            </Frame>
+            FontSize="20">
+                        <Label.GestureRecognizers>
+
+                            <TapGestureRecognizer
+           Tapped="perfectnumber"
+           NumberOfTapsRequired="1"/>
+
+                        </Label.GestureRecognizers>
+                    </Label>
+                </Frame>
 
             <Frame Grid.Row="1"
         Grid.Column="1"
@@ -78,8 +102,16 @@
             HorizontalTextAlignment="Center"
             VerticalTextAlignment="Center"
             FontAttributes="Bold"
-            FontSize="20"/>
-            </Frame>
+            FontSize="20">
+                        <Label.GestureRecognizers>
+
+                            <TapGestureRecognizer
+                            Tapped="strongnumber"
+                            NumberOfTapsRequired="1"/>
+
+                        </Label.GestureRecognizers>
+                    </Label>
+                </Frame>
 
             <Frame Grid.Row="1"
         Grid.Column="2"
@@ -89,8 +121,16 @@
             HorizontalTextAlignment="Center"
             VerticalTextAlignment="Center"
             FontAttributes="Bold"
-            FontSize="20"/>
-            </Frame>
+            FontSize="20">
+                        <Label.GestureRecognizers>
+
+                            <TapGestureRecognizer
+                          Tapped="palindromenumber"
+                          NumberOfTapsRequired="1"/>
+
+                        </Label.GestureRecognizers>
+                    </Label>
+                </Frame>
 
             </Grid>
 

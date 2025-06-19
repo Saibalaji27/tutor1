@@ -1,5 +1,5 @@
 ﻿
-namespace tutor.Model
+namespace tutor.PrimeModelPage
 {
      class PrimeModel
     {
